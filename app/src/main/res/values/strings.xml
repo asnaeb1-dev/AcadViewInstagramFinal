@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">InstagramClone</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">1ZAJJw0pdJhfw4PMg1weA2lRXfagmAKyGnahHlwN</string>
+    <string name="back4app_client_key">K9CJ9tLrilzpjQB90PbqlyNcca1gCLAcAQhJui7w</string>
+
+</resources>
